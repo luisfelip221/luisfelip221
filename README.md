@@ -1,16 +1,13 @@
-## Hi there 👋
+## ola humano, seja bem vindo ao meu perfil🦫 
 
-<!--
-**luisfelip221/luisfelip221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- meu nome e luis felipe
 
-Here are some ideas to get you started:
+- estou estudando no alura🙌
+- e estou me desenvolvendo na linguagem, javaScript
+- uso este espaço para organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce pode entrar em contato comigo📧
+00001136128724sp@al.educacao.sp.gov.br
+
+@luisfelip221
+![](https://tenor.com/pt-BR/view/deadpool-3-splits-elevator-deadpool-ryan-reynolds-gif-8569842428113276350)
